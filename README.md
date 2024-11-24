@@ -1,5 +1,5 @@
 # Yandex.Music
-### Comparison of User Behavior and Preferences in the Two Capitals, Moscow and Saint Petersburg, Based on Yandex Music Data
+This project analyzes user behavior and preferences in Moscow and Saint Petersburg using Yandex.Music data. The goal is to identify trends and differences between the two cities, offering actionable insights for improving the service's personalization and user experience.
 
 ## 📍 Areas of Activity
 - **Internet Services**
