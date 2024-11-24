@@ -11,12 +11,12 @@ Using real data from **Yandex.Music**, this project applies the **Pandas** libra
 - Compare user behavior and preferences between **Moscow** and **Saint Petersburg**
 
 ## 🏷️ Keywords
-- `Data processing`
-- `Duplicates`
-- `Missing values`
-- `Logical indexing`
-- `Grouping`
-- `Sorting`
+- `data processing`
+- `duplicates`
+- `missing values`
+- `logical indexing`
+- `grouping`
+- `sorting`
 
 ## 🛠️ Skills and Tools
 - `Python`
